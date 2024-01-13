@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "provider": "cdnjs",
+      "library": "admin-lte@3.1.0",
+      "destination": "wwwroot/lib/admin-lte/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "jquery.mask@1.14.16",
+      "destination": "wwwroot/lib/jquery.mask/"
+    }
+  ]
+}
